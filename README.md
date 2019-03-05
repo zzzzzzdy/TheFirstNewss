@@ -12,10 +12,11 @@
  ![效果图](https://github.com/zzzzzzdy/TheFirstNewss/blob/master/photo4.gif)
  ![效果图](https://github.com/zzzzzzdy/TheFirstNewss/blob/master/photo5.gif)
  ![效果图](https://github.com/zzzzzzdy/TheFirstNewss/blob/master/photo6.gif)
- ![效果图](https://github.com/zzzzzzdy/TheFirstNewss/blob/master/potho7.gif)  
+ ![效果图](https://github.com/zzzzzzdy/TheFirstNewss/blob/master/potho7.gif)   
  ![效果图](https://github.com/zzzzzzdy/TheFirstNewss/blob/master/photo8.jpg)
  ![效果图](https://github.com/zzzzzzdy/TheFirstNewss/blob/master/photo9.png)
  ![效果图](https://github.com/zzzzzzdy/TheFirstNewss/blob/master/photo10.png)
+ ![效果图](https://github.com/zzzzzzdy/TheFirstNewss/blob/master/photo11.jpg)
 ### 简要描述所写的app：
 首先是登陆页面进入下一个intent，使用知乎日报api截取当日新闻和最近热点，解析的json格式的response用的cardview两行显示其中toolbar随之滑动消失，
 有个Drawerlayout模拟一些app的个人信息，toolbar上还先加了个搜索栏但还未实现其点击事件，今天写这个搜索功能，但是其中图片不论如何都加载不到布局上
